@@ -4,7 +4,7 @@ Hackathon Mulheres no Game - Projeto da Equipe 163 - SheCodes
 
 ## Introdução
 
-O **Nome do Aplicativo** é uma plataforma de jogos que oferece uma experiência divertida e envolvente para os usuários. Nossa missão é proporcionar entretenimento e aprendizado por meio de jogos lúdicos. Abaixo, apresentamos uma visão geral das principais telas e funcionalidades do aplicativo.
+O **SheCodes** é uma plataforma de jogos que oferece uma experiência divertida e envolvente para os usuários. Nossa missão é proporcionar entretenimento e aprendizado por meio de jogos lúdicos. Abaixo, apresentamos uma visão geral das principais telas e funcionalidades do aplicativo.
 
 ## Tela de Login
 
